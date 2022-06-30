@@ -1,3 +1,14 @@
 html {
     background-color: #3D2C0B;
 }
+
+#logonavbar {
+    width: 70px;
+    margin-right: 10px;
+}
+#fotonavbar {
+    border-radius: 50%;
+    border: 10px;
+    width: 70px;
+    margin-left: 50px;
+}

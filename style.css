@@ -3,7 +3,7 @@ html {
 }
 
 #logonavbar {
-    width: 70px;
+    width: 150px;
     margin-right: 10px;
 }
 #fotonavbar {
@@ -11,4 +11,11 @@ html {
     border: 10px;
     width: 70px;
     margin-left: 50px;
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: 600;
+}
+.nav-link {
+    font-size: 1.8rem;
 }

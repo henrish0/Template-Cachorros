@@ -1,6 +1,8 @@
 
 body {
-    background-image: url(https://cdn.discordapp.com/attachments/965437216237187132/991919099154288650/Tela_Recuperar.png);
+    background-image: url(https://cdn.discordapp.com/attachments/965437216237187132/991929425492967474/Tela_lol.svg);
+    background-repeat: repeat-y;
+    background-size: cover;
 }
 
 #logonavbar {
@@ -24,8 +26,35 @@ body {
     background-color: white;
 }
 
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
 #insessao {
     background-color: white;
+}
+
+.dropdown{
+    padding: 0px;
+}
+
+#fimfiltro {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#animaisfotos {
+
+}
+
+#cachorrofoto {
+    width: 250px;
 }
 
 @media screen and (min-width:1380px) {
